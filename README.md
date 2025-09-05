@@ -32,14 +32,12 @@ Mensajes ocultos que cambian según cuántas veces abras el programa.
 
 Rickrolls, datos curiosos, y hasta un modo creepypasta.
 
-## 🤫 Spoiler: finales secretos
-Más de 200 elefantes: cosas raras empiezan a pasar...
+### 🤫 Spoiler: finales secretos
+- Más de 200 elefantes 👀:<details><pre>empiezan a pasar cosas extrañas...
+- 666 elefantes 👹: <details><pre>se listan todos con nombres generados (prepárate para esperar).
+- 777 elefantes 🍀: <details><pre>¡recibes un mensaje de buena suerte para continuar la saga!
+- Y mucho más...</details>
 
-666 elefantes: 👹
-
-777 elefantes: 🍀
-
-Y mucho más...
 
 ## 📜 Nota
 Este programa es solo por diversión y no debe tomarse en serio.
