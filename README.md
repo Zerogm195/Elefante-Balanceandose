@@ -38,7 +38,22 @@ Rickrolls, datos curiosos, y hasta un modo creepypasta.
 - 777 elefantes 🍀: <details><pre>¡recibes un mensaje de buena suerte para continuar la saga!
 - Y mucho más...</details>
 
-
 ## 📜 Nota
 Este programa es solo por diversión y no debe tomarse en serio.
 Los elefantes no fueron heridos en la creación de este código 🐘.
+
+```
+     _.-- ,.--.
+   .'   .'    /
+   | @       |'..--------._
+  /      \._/              '.
+ /  .-.-                     \
+(  /    \                     \
+ \\      '.                  | #
+  \\       \   -.           /
+   :\       |    )._____.'   \
+    "       |   /  \  |  \    )
+            |   |./'  :__ \.-'
+            '--'
+```
+
