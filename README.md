@@ -13,7 +13,7 @@ Clona este repositorio:
 Instala dependencias:
 
 ```bash
-pip install Faker
+pip install -r requirements.txt
 ```
 
 Ejecuta:
