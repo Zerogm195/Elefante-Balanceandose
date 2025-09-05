@@ -7,7 +7,7 @@ pero convertido en una especie de **juego narrativo con finales secretos, humor 
 ## 🚀 Cómo ejecutar
 Clona este repositorio:
    ```bash
-   git clone https://github.com/TU-USUARIO/elefantes.git
+   git clone https://github.com/Zerogm195/elefantes.git
    cd elefantes
    ```
 Instala dependencias:
